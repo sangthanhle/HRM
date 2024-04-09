@@ -1,0 +1,17 @@
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.csproj.AssemblyReference.cache
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.AssemblyInfoInputs.cache
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.AssemblyInfo.cs
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\bin\Debug\net6.0\HRM.BusinessLogic.deps.json
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\bin\Debug\net6.0\HRM.BusinessLogic.dll
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\bin\Debug\net6.0\HRM.BusinessLogic.pdb
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\bin\Debug\net6.0\HRM.DataAccess.dll
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\bin\Debug\net6.0\HRM.Domain.dll
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\bin\Debug\net6.0\HRM.DataAccess.pdb
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\bin\Debug\net6.0\HRM.Domain.pdb
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.csproj.CopyComplete
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.dll
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\refint\HRM.BusinessLogic.dll
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\HRM.BusinessLogic.pdb
+D:\HRM\QLNS_HRM\HRM.BusinessLogic\obj\Debug\net6.0\ref\HRM.BusinessLogic.dll

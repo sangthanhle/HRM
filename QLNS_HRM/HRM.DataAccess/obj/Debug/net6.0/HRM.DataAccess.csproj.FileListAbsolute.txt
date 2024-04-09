@@ -1,0 +1,17 @@
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.csproj.AssemblyReference.cache
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.AssemblyInfoInputs.cache
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.AssemblyInfo.cs
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.csproj.CoreCompileInputs.cache
+D:\HRM\QLNS_HRM\HRM.DataAccess\bin\Debug\net6.0\HRM.DataAccess.deps.json
+D:\HRM\QLNS_HRM\HRM.DataAccess\bin\Debug\net6.0\HRM.DataAccess.runtimeconfig.json
+D:\HRM\QLNS_HRM\HRM.DataAccess\bin\Debug\net6.0\HRM.DataAccess.dll
+D:\HRM\QLNS_HRM\HRM.DataAccess\bin\Debug\net6.0\HRM.DataAccess.pdb
+D:\HRM\QLNS_HRM\HRM.DataAccess\bin\Debug\net6.0\HRM.Domain.dll
+D:\HRM\QLNS_HRM\HRM.DataAccess\bin\Debug\net6.0\HRM.Domain.pdb
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.csproj.CopyComplete
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.dll
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\refint\HRM.DataAccess.dll
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.pdb
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\HRM.DataAccess.genruntimeconfig.cache
+D:\HRM\QLNS_HRM\HRM.DataAccess\obj\Debug\net6.0\ref\HRM.DataAccess.dll

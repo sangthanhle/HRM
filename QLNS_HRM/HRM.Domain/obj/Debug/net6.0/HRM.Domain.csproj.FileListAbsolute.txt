@@ -1,0 +1,12 @@
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\HRM.Domain.csproj.AssemblyReference.cache
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\HRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\HRM.Domain.AssemblyInfoInputs.cache
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\HRM.Domain.AssemblyInfo.cs
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\HRM.Domain.csproj.CoreCompileInputs.cache
+D:\HRM\QLNS_HRM\HRM.Domain\bin\Debug\net6.0\HRM.Domain.deps.json
+D:\HRM\QLNS_HRM\HRM.Domain\bin\Debug\net6.0\HRM.Domain.dll
+D:\HRM\QLNS_HRM\HRM.Domain\bin\Debug\net6.0\HRM.Domain.pdb
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\HRM.Domain.dll
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\refint\HRM.Domain.dll
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\HRM.Domain.pdb
+D:\HRM\QLNS_HRM\HRM.Domain\obj\Debug\net6.0\ref\HRM.Domain.dll
